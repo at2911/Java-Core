@@ -1,2 +1,5 @@
-# Java-Core
-Started learning Core Java. This repository will contain my .java practice programs and concepts as I progress.
+# Core Java Learning
+
+This repository contains my Core Java practice programs.
+
+I will update it as soon as I learn new concepts.
