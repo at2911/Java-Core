@@ -36,9 +36,11 @@ public class switchs {
                 System.out.println("j is 5");
                 break;
             default:{
-                System.out.println
+                System.out.println("J i neither 4 nor 5");
+                break;
             }
-;        }
+            //selection statements
+        }
 
     }
 }
